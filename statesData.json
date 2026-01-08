@@ -1,157 +1,46 @@
 {
-    "indianStates": {
-        "totalStates": 37,
-            "states": [
-                {
-                    "key": "AN",
-                    "name": "Andaman and Nicobar Islands"
-                },
-                {
-                    "key": "AP",
-                    "name": "Andhra Pradesh"
-                },
-                {
-                    "key": "AR",
-                    "name": "Arunachal Pradesh"
-                },
-                {
-                    "key": "AS",
-                    "name": "Assam"
-                },
-                {
-                    "key": "BR",
-                    "name": "Bihar"
-                },
-                {
-                    "key": "CG",
-                    "name": "Chandigarh"
-                },
-                {
-                    "key": "CH",
-                    "name": "Chhattisgarh"
-                },
-                {
-                    "key": "DH",
-                    "name": "Dadra and Nagar Haveli"
-                },
-                {
-                    "key": "DD",
-                    "name": "Daman and Diu"
-                },
-                {
-                    "key": "DL",
-                    "name": "Delhi"
-                },
-                {
-                    "key": "GA",
-                    "name": "Goa"
-                },
-                {
-                    "key": "GJ",
-                    "name": "Gujarat"
-                },
-                {
-                    "key": "HR",
-                    "name": "Haryana"
-                },
-                {
-                    "key": "HP",
-                    "name": "Himachal Pradesh"
-                },
-                {
-                    "key": "JK",
-                    "name": "Jammu and Kashmir"
-                },
-                {
-                    "key": "JH",
-                    "name": "Jharkhand"
-                },
-                {
-                    "key": "KA",
-                    "name": "Karnataka"
-                },
-                {
-                    "key": "KL",
-                    "name": "Kerala"
-                },
-                {
-                    "key": "LA",
-                    "name": "Ladakh"
-                },
-                {
-                    "key": "LD",
-                    "name": "Lakshadweep"
-                },
-                {
-                    "key": "MP",
-                    "name": "Madhya Pradesh"
-                },
-                {
-                    "key": "MH",
-                    "name": "Maharashtra"
-                },
-                {
-                    "key": "MN",
-                    "name": "Manipur"
-                },
-                {
-                    "key": "ML",
-                    "name": "Meghalaya"
-                },
-                {
-                    "key": "MZ",
-                    "name": "Mizoram"
-                },
-                {
-                    "key": "NL",
-                    "name": "Nagaland"
-                },
-                {
-                    "key": "OD",
-                    "name": "Odisha"
-                },
-                {
-                    "key": "PY",
-                    "name": "Puducherry"
-                },
-                {
-                    "key": "PB",
-                    "name": "Punjab"
-                },
-                {
-                    "key": "RJ",
-                    "name": "Rajasthan"
-                },
-                {
-                    "key": "SK",
-                    "name": "Sikkim"
-                },
-                {
-                    "key": "TN",
-                    "name": "Tamil Nadu"
-                },
-                {
-                    "key": "TL",
-                    "name": "Telangana"
-                },
-                {
-                    "key": "TR",
-                    "name": "Tripura"
-                },
-                {
-                    "key": "UK",
-                    "name": "Uttarakhand"
-                },
-                {
-                    "key": "UP",
-                    "name": "Uttar Pradesh"
-                },
-                {
-                    "key": "WB",
-                    "name": "West Bengal"
-                }
-            ]
-    },
+  "indianStates": {
+    "totalStates": 37,
+    "states": [
+      {"key": "AN", "name": "Andaman and Nicobar Islands", "hindiName": "अंडमान और निकोबार द्वीप समूह"},
+      {"key": "AP", "name": "Andhra Pradesh", "hindiName": "आंध्र प्रदेश"},
+      {"key": "AR", "name": "Arunachal Pradesh", "hindiName": "अरुणाचल प्रदेश"},
+      {"key": "AS", "name": "Assam", "hindiName": "असम"},
+      {"key": "BR", "name": "Bihar", "hindiName": "बिहार"},
+      {"key": "CG", "name": "Chandigarh", "hindiName": "चंडीगढ़"},
+      {"key": "CH", "name": "Chhattisgarh", "hindiName": "छत्तीसगढ़"},
+      {"key": "DH", "name": "Dadra and Nagar Haveli", "hindiName": "दादरा और नगर हवेली"},
+      {"key": "DD", "name": "Daman and Diu", "hindiName": "दमन और दीव"},
+      {"key": "DL", "name": "Delhi", "hindiName": "दिल्ली"},
+      {"key": "GA", "name": "Goa", "hindiName": "गोवा"},
+      {"key": "GJ", "name": "Gujarat", "hindiName": "गुजरात"},
+      {"key": "HR", "name": "Haryana", "hindiName": "हरियाणा"},
+      {"key": "HP", "name": "Himachal Pradesh", "hindiName": "हिमाचल प्रदेश"},
+      {"key": "JK", "name": "Jammu and Kashmir", "hindiName": "जम्मू और कश्मीर"},
+      {"key": "JH", "name": "Jharkhand", "hindiName": "झारखंड"},
+      {"key": "KA", "name": "Karnataka", "hindiName": "कर्नाटक"},
+      {"key": "KL", "name": "Kerala", "hindiName": "केरल"},
+      {"key": "LA", "name": "Ladakh", "hindiName": "लद्दाख"},
+      {"key": "LD", "name": "Lakshadweep", "hindiName": "लक्षद्वीप"},
+      {"key": "MP", "name": "Madhya Pradesh", "hindiName": "मध्य प्रदेश"},
+      {"key": "MH", "name": "Maharashtra", "hindiName": "महाराष्ट्र"},
+      {"key": "MN", "name": "Manipur", "hindiName": "मणिपुर"},
+      {"key": "ML", "name": "Meghalaya", "hindiName": "मेघालय"},
+      {"key": "MZ", "name": "Mizoram", "hindiName": "मिजोरम"},
+      {"key": "NL", "name": "Nagaland", "hindiName": "नागालैंड"},
+      {"key": "OD", "name": "Odisha", "hindiName": "ओडिशा"},
+      {"key": "PY", "name": "Puducherry", "hindiName": "पुदुचेरी"},
+      {"key": "PB", "name": "Punjab", "hindiName": "पंजाब"},
+      {"key": "RJ", "name": "Rajasthan", "hindiName": "राजस्थान"},
+      {"key": "SK", "name": "Sikkim", "hindiName": "सिक्किम"},
+      {"key": "TN", "name": "Tamil Nadu", "hindiName": "तमिलनाडु"},
+      {"key": "TL", "name": "Telangana", "hindiName": "तेलंगाना"},
+      {"key": "TR", "name": "Tripura", "hindiName": "त्रिपुरा"},
+      {"key": "UK", "name": "Uttarakhand", "hindiName": "उत्तराखंड"},
+      {"key": "UP", "name": "Uttar Pradesh", "hindiName": "उत्तर प्रदेश"},
+      {"key": "WB", "name": "West Bengal", "hindiName": "पश्चिम बंगाल"}
+    ]
+  },
 
     "lokSabhaSeats" : {
         "totalSeats": 543,
