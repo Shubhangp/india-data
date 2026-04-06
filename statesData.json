@@ -370,7 +370,7 @@
                         { "id": 25, "key": "KALS-25", "name": "Udupi-Chikkamagaluru" },
                         { "id": 26, "key": "KALS-26", "name": "Uttara Kannada" },
                         { "id": 27, "key": "KALS-27", "name": "Vijayapura" },
-                        { "id": 28, "key": "KALS-28", "name": "Bijapur" }
+                        { "id": 28, "key": "KALS-28", "name": "Bellary" }
                     ]
                 },
                 {
@@ -8132,448 +8132,449 @@
                 "hasAssembly": true,
                 "totalSeats": 224,
                 "districts": [
-                    {
-                        "districtKey": "KA-1",
-                        "districtName": "Bagalkot",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 19, "name": "Mudhol", "lokSabhaKey": "KALS-1" },
-                            { "id": 20, "name": "Terdal", "lokSabhaKey": "KALS-1" },
-                            { "id": 21, "name": "Jamkhandi", "lokSabhaKey": "KALS-1" },
-                            { "id": 22, "name": "Bilgi", "lokSabhaKey": "KALS-1" },
-                            { "id": 23, "name": "Badami", "lokSabhaKey": "KALS-1" },
-                            { "id": 24, "name": "Bagalkot", "lokSabhaKey": "KALS-1" },
-                            { "id": 25, "name": "Hungund", "lokSabhaKey": "KALS-1" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-2",
-                        "districtName": "Ballari",
-                        "totalSeats": 5,
-                        "constituencies": [
-                            { "id": 91, "name": "Kampli", "lokSabhaKey": "KALS-5" },
-                            { "id": 93, "name": "Bellary Rural", "lokSabhaKey": "KALS-5" },
-                            { "id": 94, "name": "Bellary City", "lokSabhaKey": "KALS-5" },
-                            { "id": 95, "name": "Sandur", "lokSabhaKey": "KALS-5" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-4",
-                        "districtName": "Bangalore Rural",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 178, "name": "Hosakote", "lokSabhaKey": "KALS-9" },
-                            { "id": 179, "name": "Devanahalli", "lokSabhaKey": "KALS-9" },
-                            { "id": 180, "name": "Doddaballapur", "lokSabhaKey": "KALS-9" },
-                            { "id": 181, "name": "Nelamangala", "lokSabhaKey": "KALS-9" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-5",
-                        "districtName": "Bangalore Urban",
-                        "totalSeats": 28,
-                        "constituencies": [
-                            { "id": 150, "name": "Yelahanka", "lokSabhaKey": "KALS-9" },
-                            { "id": 151, "name": "Krishnarajapuram", "lokSabhaKey": "KALS-3" },
-                            { "id": 152, "name": "Byatarayanapura", "lokSabhaKey": "KALS-3" },
-                            { "id": 153, "name": "Yeshwantpur", "lokSabhaKey": "KALS-3" },
-                            { "id": 154, "name": "Rajarajeshwarinagar", "lokSabhaKey": "KALS-4" },
-                            { "id": 155, "name": "Dasarahalli", "lokSabhaKey": "KALS-3" },
-                            { "id": 156, "name": "Mahalakshmi Layout", "lokSabhaKey": "KALS-3" },
-                            { "id": 157, "name": "Malleshwaram", "lokSabhaKey": "KALS-3" },
-                            { "id": 158, "name": "Hebbal", "lokSabhaKey": "KALS-3" },
-                            { "id": 159, "name": "Pulakeshinagar", "lokSabhaKey": "KALS-3" },
-                            { "id": 160, "name": "Sarvagnanagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 161, "name": "C. V. Raman Nagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 162, "name": "Shivajinagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 163, "name": "Shanti Nagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 164, "name": "Gandhi Nagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 165, "name": "Rajaji Nagar", "lokSabhaKey": "KALS-2" },
-                            { "id": 166, "name": "Govindraj Nagar", "lokSabhaKey": "KALS-5" },
-                            { "id": 167, "name": "Vijay Nagar", "lokSabhaKey": "KALS-5" },
-                            { "id": 168, "name": "Chamrajpet", "lokSabhaKey": "KALS-2" },
-                            { "id": 169, "name": "Chickpet", "lokSabhaKey": "KALS-5" },
-                            { "id": 170, "name": "Basavanagudi", "lokSabhaKey": "KALS-5" },
-                            { "id": 171, "name": "Padmanabhanagar", "lokSabhaKey": "KALS-5" },
-                            { "id": 172, "name": "B.T.M. Layout", "lokSabhaKey": "KALS-5" },
-                            { "id": 173, "name": "Jayanagar", "lokSabhaKey": "KALS-5" },
-                            { "id": 174, "name": "Mahadevapura", "lokSabhaKey": "KALS-2" },
-                            { "id": 175, "name": "Bommanahalli", "lokSabhaKey": "KALS-5" },
-                            { "id": 176, "name": "Bangalore South", "lokSabhaKey": "KALS-4" },
-                            { "id": 177, "name": "Anekal", "lokSabhaKey": "KALS-4" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-3",
-                        "districtName": "Belagavi",
-                        "totalSeats": 18,
-                        "constituencies": [
-                            { "id": 1, "name": "Nippani", "lokSabhaKey": "KALS-10" },
-                            { "id": 2, "name": "Chikkodi-Sadalga", "lokSabhaKey": "KALS-10" },
-                            { "id": 3, "name": "Athani", "lokSabhaKey": "KALS-10" },
-                            { "id": 4, "name": "Kagwad", "lokSabhaKey": "KALS-10" },
-                            { "id": 5, "name": "Kudachi", "lokSabhaKey": "KALS-10" },
-                            { "id": 6, "name": "Raibag", "lokSabhaKey": "KALS-10" },
-                            { "id": 7, "name": "Hukkeri", "lokSabhaKey": "KALS-10" },
-                            { "id": 8, "name": "Arabhavi", "lokSabhaKey": "KALS-6" },
-                            { "id": 9, "name": "Gokak", "lokSabhaKey": "KALS-6" },
-                            { "id": 10, "name": "Yemkanmardi", "lokSabhaKey": "KALS-10" },
-                            { "id": 11, "name": "Belgaum Uttar", "lokSabhaKey": "KALS-6" },
-                            { "id": 12, "name": "Belgaum Dakshin", "lokSabhaKey": "KALS-6" },
-                            { "id": 13, "name": "Belgaum Rural", "lokSabhaKey": "KALS-6" },
-                            { "id": 14, "name": "Khanapur", "lokSabhaKey": "KALS-26" },
-                            { "id": 15, "name": "Kittur", "lokSabhaKey": "KALS-26" },
-                            { "id": 16, "name": "Bailhongal", "lokSabhaKey": "KALS-6" },
-                            { "id": 17, "name": "Saundatti Yellamma", "lokSabhaKey": "KALS-6" },
-                            { "id": 18, "name": "Ramdurg", "lokSabhaKey": "KALS-6" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-6",
-                        "districtName": "Bidar",
-                        "totalSeats": 6,
-                        "constituencies": [
-                            { "id": 47, "name": "Basavakalyan", "lokSabhaKey": "KALS-7" },
-                            { "id": 48, "name": "Humnabad", "lokSabhaKey": "KALS-7" },
-                            { "id": 49, "name": "Bidar South", "lokSabhaKey": "KALS-7" },
-                            { "id": 50, "name": "Bidar", "lokSabhaKey": "KALS-7" },
-                            { "id": 51, "name": "Bhalki", "lokSabhaKey": "KALS-7" },
-                            { "id": 52, "name": "Aurad", "lokSabhaKey": "KALS-7" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-7",
-                        "districtName": "Chamarajanagar",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 221, "name": "Hanur", "lokSabhaKey": "KALS-8" },
-                            { "id": 222, "name": "Kollegal", "lokSabhaKey": "KALS-8" },
-                            { "id": 223, "name": "Chamarajanagar", "lokSabhaKey": "KALS-8" },
-                            { "id": 224, "name": "Gundlupet", "lokSabhaKey": "KALS-8" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-8",
-                        "districtName": "Chikballapur",
-                        "totalSeats": 5,
-                        "constituencies": [
-                            { "id": 139, "name": "Gauribidanur", "lokSabhaKey": "KALS-9" },
-                            { "id": 140, "name": "Bagepalli", "lokSabhaKey": "KALS-9" },
-                            { "id": 141, "name": "Chikkaballapur", "lokSabhaKey": "KALS-9" },
-                            { "id": 142, "name": "Sidlaghatta", "lokSabhaKey": "KALS-18" },
-                            { "id": 143, "name": "Chintamani", "lokSabhaKey": "KALS-18" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-9",
-                        "districtName": "Chikmagalur",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 123, "name": "Sringeri", "lokSabhaKey": "KALS-25" },
-                            { "id": 124, "name": "Mudigere", "lokSabhaKey": "KALS-25" },
-                            { "id": 125, "name": "Chikmagalur", "lokSabhaKey": "KALS-25" },
-                            { "id": 126, "name": "Tarikere", "lokSabhaKey": "KALS-25" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-10",
-                        "districtName": "Chitradurga",
-                        "totalSeats": 6,
-                        "constituencies": [
-                            { "id": 97, "name": "Molakalmuru", "lokSabhaKey": "KALS-11" },
-                            { "id": 98, "name": "Challakere", "lokSabhaKey": "KALS-11" },
-                            { "id": 99, "name": "Chitradurga", "lokSabhaKey": "KALS-11" },
-                            { "id": 100, "name": "Hiriyur", "lokSabhaKey": "KALS-11" },
-                            { "id": 101, "name": "Hosadurga", "lokSabhaKey": "KALS-11" },
-                            { "id": 102, "name": "Holalkere", "lokSabhaKey": "KALS-11" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-11",
-                        "districtName": "Dakshina Kannada",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 200, "name": "Belthangady", "lokSabhaKey": "KALS-12" },
-                            { "id": 201, "name": "Moodabidri", "lokSabhaKey": "KALS-12" },
-                            { "id": 202, "name": "Mangalore City North", "lokSabhaKey": "KALS-12" },
-                            { "id": 203, "name": "Mangalore City South", "lokSabhaKey": "KALS-12" },
-                            { "id": 204, "name": "Mangalore", "lokSabhaKey": "KALS-12" },
-                            { "id": 205, "name": "Bantval", "lokSabhaKey": "KALS-12" },
-                            { "id": 206, "name": "Puttur", "lokSabhaKey": "KALS-12" },
-                            { "id": 207, "name": "Sullia", "lokSabhaKey": "KALS-12" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-12",
-                        "districtName": "Devangere",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 103, "name": "Jagalur", "lokSabhaKey": "KALS-13" },
-                            { "id": 105, "name": "Harihar", "lokSabhaKey": "KALS-13" },
-                            { "id": 106, "name": "Davanagere North", "lokSabhaKey": "KALS-13" },
-                            { "id": 107, "name": "Davanagere South", "lokSabhaKey": "KALS-13" },
-                            { "id": 108, "name": "Mayakonda", "lokSabhaKey": "KALS-13" },
-                            { "id": 109, "name": "Channagiri", "lokSabhaKey": "KALS-13" },
-                            { "id": 110, "name": "Honnali", "lokSabhaKey": "KALS-13" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-13",
-                        "districtName": "Dharwad",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 69, "name": "Navalgund", "lokSabhaKey": "KALS-14" },
-                            { "id": 70, "name": "Kundgol", "lokSabhaKey": "KALS-14" },
-                            { "id": 71, "name": "Dharwad", "lokSabhaKey": "KALS-14" },
-                            { "id": 72, "name": "Hubli-Dharwad East", "lokSabhaKey": "KALS-14" },
-                            { "id": 73, "name": "Hubli-Dharwad Central", "lokSabhaKey": "KALS-14" },
-                            { "id": 74, "name": "Hubli-Dharwad West", "lokSabhaKey": "KALS-14" },
-                            { "id": 75, "name": "Kalghatgi", "lokSabhaKey": "KALS-14" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-14",
-                        "districtName": "Gadag",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 65, "name": "Shirahatti", "lokSabhaKey": "KALS-16" },
-                            { "id": 66, "name": "Gadag", "lokSabhaKey": "KALS-16" },
-                            { "id": 67, "name": "Ron", "lokSabhaKey": "KALS-16" },
-                            { "id": 68, "name": "Nargund", "lokSabhaKey": "KALS-1" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-15",
-                        "districtName": "Hassan",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 127, "name": "Kadur", "lokSabhaKey": "KALS-15" },
-                            { "id": 193, "name": "Shravanabelagola", "lokSabhaKey": "KALS-15" },
-                            { "id": 194, "name": "Arsikere", "lokSabhaKey": "KALS-15" },
-                            { "id": 195, "name": "Belur", "lokSabhaKey": "KALS-15" },
-                            { "id": 196, "name": "Hassan", "lokSabhaKey": "KALS-15" },
-                            { "id": 197, "name": "Holenarasipur", "lokSabhaKey": "KALS-15" },
-                            { "id": 198, "name": "Arkalgud", "lokSabhaKey": "KALS-15" },
-                            { "id": 199, "name": "Sakleshpur", "lokSabhaKey": "KALS-15" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-16",
-                        "districtName": "Haveri",
-                        "totalSeats": 6,
-                        "constituencies": [
-                            { "id": 82, "name": "Hangal", "lokSabhaKey": "KALS-16" },
-                            { "id": 83, "name": "Shiggaon", "lokSabhaKey": "KALS-14" },
-                            { "id": 84, "name": "Haveri", "lokSabhaKey": "KALS-16" },
-                            { "id": 85, "name": "Byadgi", "lokSabhaKey": "KALS-16" },
-                            { "id": 86, "name": "Hirekerur", "lokSabhaKey": "KALS-16" },
-                            { "id": 87, "name": "Ranebennur", "lokSabhaKey": "KALS-16" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-17",
-                        "districtName": "Kalaburagi",
-                        "totalSeats": 9,
-                        "constituencies": [
-                            { "id": 34, "name": "Afzalpur", "lokSabhaKey": "KALS-17" },
-                            { "id": 35, "name": "Jevargi", "lokSabhaKey": "KALS-17" },
-                            { "id": 40, "name": "Chittapur", "lokSabhaKey": "KALS-17" },
-                            { "id": 41, "name": "Sedam", "lokSabhaKey": "KALS-17" },
-                            { "id": 42, "name": "Chincholi", "lokSabhaKey": "KALS-7" },
-                            { "id": 43, "name": "Gulbarga Rural", "lokSabhaKey": "KALS-17" },
-                            { "id": 44, "name": "Gulbarga Dakshin", "lokSabhaKey": "KALS-17" },
-                            { "id": 45, "name": "Gulbarga Uttar", "lokSabhaKey": "KALS-17" },
-                            { "id": 46, "name": "Aland", "lokSabhaKey": "KALS-7" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-18",
-                        "districtName": "Kodagu",
-                        "totalSeats": 2,
-                        "constituencies": [
-                            { "id": 208, "name": "Madikeri", "lokSabhaKey": "KALS-21" },
-                            { "id": 209, "name": "Virajpet", "lokSabhaKey": "KALS-21" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-19",
-                        "districtName": "Kolar",
-                        "totalSeats": 6,
-                        "constituencies": [
-                            { "id": 144, "name": "Srinivaspur", "lokSabhaKey": "KALS-18" },
-                            { "id": 145, "name": "Mulbagal", "lokSabhaKey": "KALS-18" },
-                            { "id": 146, "name": "Kolar Gold Field", "lokSabhaKey": "KALS-18" },
-                            { "id": 147, "name": "Bangarapet", "lokSabhaKey": "KALS-18" },
-                            { "id": 148, "name": "Kolar", "lokSabhaKey": "KALS-18" },
-                            { "id": 149, "name": "Malur", "lokSabhaKey": "KALS-18" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-20",
-                        "districtName": "Koppal",
-                        "totalSeats": 5,
-                        "constituencies": [
-                            { "id": 60, "name": "Kushtagi", "lokSabhaKey": "KALS-19" },
-                            { "id": 61, "name": "Kanakagiri", "lokSabhaKey": "KALS-19" },
-                            { "id": 62, "name": "Gangawati", "lokSabhaKey": "KALS-19" },
-                            { "id": 63, "name": "Yelburga", "lokSabhaKey": "KALS-19" },
-                            { "id": 64, "name": "Koppal", "lokSabhaKey": "KALS-19" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-21",
-                        "districtName": "Mandya",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 186, "name": "Malavalli", "lokSabhaKey": "KALS-20" },
-                            { "id": 187, "name": "Maddur", "lokSabhaKey": "KALS-20" },
-                            { "id": 188, "name": "Melukote", "lokSabhaKey": "KALS-20" },
-                            { "id": 189, "name": "Mandya", "lokSabhaKey": "KALS-20" },
-                            { "id": 190, "name": "Shrirangapattana", "lokSabhaKey": "KALS-20" },
-                            { "id": 191, "name": "Nagamangala", "lokSabhaKey": "KALS-20" },
-                            { "id": 192, "name": "Krishnarajapet", "lokSabhaKey": "KALS-20" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-22",
-                        "districtName": "Mysore",
-                        "totalSeats": 11,
-                        "constituencies": [
-                            { "id": 210, "name": "Periyapatna", "lokSabhaKey": "KALS-21" },
-                            { "id": 211, "name": "Krishnarajanagara", "lokSabhaKey": "KALS-20" },
-                            { "id": 212, "name": "Hunsur", "lokSabhaKey": "KALS-21" },
-                            { "id": 213, "name": "Heggadadevankote", "lokSabhaKey": "KALS-8" },
-                            { "id": 214, "name": "Nanjangud", "lokSabhaKey": "KALS-8" },
-                            { "id": 215, "name": "Chamundeshwari", "lokSabhaKey": "KALS-21" },
-                            { "id": 216, "name": "Krishnaraja", "lokSabhaKey": "KALS-21" },
-                            { "id": 217, "name": "Chamaraja", "lokSabhaKey": "KALS-21" },
-                            { "id": 218, "name": "Narasimharaja", "lokSabhaKey": "KALS-21" },
-                            { "id": 219, "name": "Varuna", "lokSabhaKey": "KALS-8" },
-                            { "id": 220, "name": "T. Narasipur", "lokSabhaKey": "KALS-8" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-23",
-                        "districtName": "Raichur",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 53, "name": "Raichur Rural", "lokSabhaKey": "KALS-22" },
-                            { "id": 54, "name": "Raichur", "lokSabhaKey": "KALS-22" },
-                            { "id": 55, "name": "Manvi", "lokSabhaKey": "KALS-22" },
-                            { "id": 56, "name": "Devadurga", "lokSabhaKey": "KALS-22" },
-                            { "id": 57, "name": "Lingsugur", "lokSabhaKey": "KALS-22" },
-                            { "id": 58, "name": "Sindhanur", "lokSabhaKey": "KALS-19" },
-                            { "id": 59, "name": "Maski", "lokSabhaKey": "KALS-19" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-24",
-                        "districtName": "Ramanagara",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 182, "name": "Magadi", "lokSabhaKey": "KALS-4" },
-                            { "id": 183, "name": "Ramanagaram", "lokSabhaKey": "KALS-4" },
-                            { "id": 184, "name": "Kanakapura", "lokSabhaKey": "KALS-4" },
-                            { "id": 185, "name": "Channapatna", "lokSabhaKey": "KALS-4" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-25",
-                        "districtName": "Shimoga",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 111, "name": "Shimoga Rural", "lokSabhaKey": "KALS-23" },
-                            { "id": 112, "name": "Bhadravati", "lokSabhaKey": "KALS-23" },
-                            { "id": 113, "name": "Shimoga", "lokSabhaKey": "KALS-23" },
-                            { "id": 114, "name": "Tirthahalli", "lokSabhaKey": "KALS-23" },
-                            { "id": 115, "name": "Shikaripura", "lokSabhaKey": "KALS-23" },
-                            { "id": 116, "name": "Sorab", "lokSabhaKey": "KALS-23" },
-                            { "id": 117, "name": "Sagar", "lokSabhaKey": "KALS-23" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-26",
-                        "districtName": "Tumakuru",
-                        "totalSeats": 11,
-                        "constituencies": [
-                            { "id": 128, "name": "Chiknayakanhalli", "lokSabhaKey": "KALS-24" },
-                            { "id": 129, "name": "Tiptur", "lokSabhaKey": "KALS-24" },
-                            { "id": 130, "name": "Turuvekere", "lokSabhaKey": "KALS-24" },
-                            { "id": 131, "name": "Kunigal", "lokSabhaKey": "KALS-4" },
-                            { "id": 132, "name": "Tumkur City", "lokSabhaKey": "KALS-24" },
-                            { "id": 133, "name": "Tumkur Rural", "lokSabhaKey": "KALS-24" },
-                            { "id": 134, "name": "Koratagere", "lokSabhaKey": "KALS-24" },
-                            { "id": 135, "name": "Gubbi", "lokSabhaKey": "KALS-24" },
-                            { "id": 136, "name": "Sira", "lokSabhaKey": "KALS-11" },
-                            { "id": 137, "name": "Pavagada", "lokSabhaKey": "KALS-11" },
-                            { "id": 138, "name": "Madhugiri", "lokSabhaKey": "KALS-24" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-27",
-                        "districtName": "Udupi",
-                        "totalSeats": 5,
-                        "constituencies": [
-                            { "id": 118, "name": "Byndoor", "lokSabhaKey": "KALS-23" },
-                            { "id": 119, "name": "Kundapura", "lokSabhaKey": "KALS-25" },
-                            { "id": 120, "name": "Udupi", "lokSabhaKey": "KALS-25" },
-                            { "id": 121, "name": "Kapu", "lokSabhaKey": "KALS-25" },
-                            { "id": 122, "name": "Karkala", "lokSabhaKey": "KALS-25" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-28",
-                        "districtName": "Uttara Kannada (Karwar)",
-                        "totalSeats": 6,
-                        "constituencies": [
-                            { "id": 76, "name": "Haliyal", "lokSabhaKey": "KALS-26" },
-                            { "id": 77, "name": "Karwar", "lokSabhaKey": "KALS-26" },
-                            { "id": 78, "name": "Kumta", "lokSabhaKey": "KALS-26" },
-                            { "id": 79, "name": "Bhatkal", "lokSabhaKey": "KALS-26" },
-                            { "id": 80, "name": "Sirsi", "lokSabhaKey": "KALS-26" },
-                            { "id": 81, "name": "Yellapur", "lokSabhaKey": "KALS-26" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-31",
-                        "districtName": "Vijayanagara",
-                        "totalSeats": 5,
-                        "constituencies": [
-                            { "id": 88, "name": "Hoovina Hadagali", "lokSabhaKey": "KALS-5" },
-                            { "id": 89, "name": "Hagaribommanahalli", "lokSabhaKey": "KALS-5" },
-                            { "id": 90, "name": "Vijayanagara", "lokSabhaKey": "KALS-5" },
-                            { "id": 96, "name": "Kudligi", "lokSabhaKey": "KALS-5" },
-                            { "id": 104, "name": "Harapanahalli", "lokSabhaKey": "KALS-13" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-29",
-                        "districtName": "Vijayapura",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 26, "name": "Muddebihal", "lokSabhaKey": "KALS-27" },
-                            { "id": 27, "name": "Devar Hippargi", "lokSabhaKey": "KALS-27" },
-                            { "id": 28, "name": "Basavana Bagevadi", "lokSabhaKey": "KALS-27" },
-                            { "id": 29, "name": "Babaleshwar", "lokSabhaKey": "KALS-27" },
-                            { "id": 30, "name": "Bijapur City", "lokSabhaKey": "KALS-27" },
-                            { "id": 31, "name": "Nagathan", "lokSabhaKey": "KALS-27" },
-                            { "id": 32, "name": "Indi", "lokSabhaKey": "KALS-27" },
-                            { "id": 33, "name": "Sindagi", "lokSabhaKey": "KALS-27" }
-                        ]
-                    },
-                    {
-                        "districtKey": "KA-30",
-                        "districtName": "Yadgir",
-                        "totalSeats": 4,
-                        "constituencies": [
-                            { "id": 36, "name": "Shorapur", "lokSabhaKey": "KALS-22" },
-                            { "id": 37, "name": "Shahapur", "lokSabhaKey": "KALS-22" },
-                            { "id": 38, "name": "Yadgir", "lokSabhaKey": "KALS-22" },
-                            { "id": 39, "name": "Gurmitkal", "lokSabhaKey": "KALS-17" }
-                        ]
-                    }
+                  {
+                    "districtKey": "KA-1",
+                    "districtName": "Bagalkot",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 19, "name": "Mudhol",    "lokSabhaKey": "KALS-1" },
+                      { "id": 20, "name": "Terdal",    "lokSabhaKey": "KALS-1" },
+                      { "id": 21, "name": "Jamkhandi", "lokSabhaKey": "KALS-1" },
+                      { "id": 22, "name": "Bilgi",     "lokSabhaKey": "KALS-1" },
+                      { "id": 23, "name": "Badami",    "lokSabhaKey": "KALS-1" },
+                      { "id": 24, "name": "Bagalkot",  "lokSabhaKey": "KALS-1" },
+                      { "id": 25, "name": "Hungund",   "lokSabhaKey": "KALS-1" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-2",
+                    "districtName": "Ballari",
+                    "totalSeats": 5,
+                    "constituencies": [
+                      { "id": 91, "name": "Kampli",       "lokSabhaKey": "KALS-28" },
+                      { "id": 92, "name": "Siruguppa",    "lokSabhaKey": "KALS-28" },
+                      { "id": 93, "name": "Bellary Rural","lokSabhaKey": "KALS-28" },
+                      { "id": 94, "name": "Bellary City", "lokSabhaKey": "KALS-28" },
+                      { "id": 95, "name": "Sandur",       "lokSabhaKey": "KALS-28" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-3",
+                    "districtName": "Belagavi",
+                    "totalSeats": 18,
+                    "constituencies": [
+                      { "id": 1,  "name": "Nippani",           "lokSabhaKey": "KALS-10" },
+                      { "id": 2,  "name": "Chikkodi-Sadalga",  "lokSabhaKey": "KALS-10" },
+                      { "id": 3,  "name": "Athani",            "lokSabhaKey": "KALS-10" },
+                      { "id": 4,  "name": "Kagwad",            "lokSabhaKey": "KALS-10" },
+                      { "id": 5,  "name": "Kudachi",           "lokSabhaKey": "KALS-10" },
+                      { "id": 6,  "name": "Raibag",            "lokSabhaKey": "KALS-10" },
+                      { "id": 7,  "name": "Hukkeri",           "lokSabhaKey": "KALS-10" },
+                      { "id": 8,  "name": "Arabhavi",          "lokSabhaKey": "KALS-6" },
+                      { "id": 9,  "name": "Gokak",             "lokSabhaKey": "KALS-6" },
+                      { "id": 10, "name": "Yemkanmardi",       "lokSabhaKey": "KALS-10" },
+                      { "id": 11, "name": "Belgaum Uttar",     "lokSabhaKey": "KALS-6" },
+                      { "id": 12, "name": "Belgaum Dakshin",   "lokSabhaKey": "KALS-6" },
+                      { "id": 13, "name": "Belgaum Rural",     "lokSabhaKey": "KALS-6" },
+                      { "id": 14, "name": "Khanapur",          "lokSabhaKey": "KALS-26" },
+                      { "id": 15, "name": "Kittur",            "lokSabhaKey": "KALS-26" },
+                      { "id": 16, "name": "Bailhongal",        "lokSabhaKey": "KALS-6" },
+                      { "id": 17, "name": "Saundatti Yellamma","lokSabhaKey": "KALS-6" },
+                      { "id": 18, "name": "Ramdurg",           "lokSabhaKey": "KALS-6" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-4",
+                    "districtName": "Bangalore Rural",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 178, "name": "Hosakote",      "lokSabhaKey": "KALS-9" },
+                      { "id": 179, "name": "Devanahalli",   "lokSabhaKey": "KALS-9" },
+                      { "id": 180, "name": "Doddaballapur","lokSabhaKey": "KALS-9" },
+                      { "id": 181, "name": "Nelamangala",  "lokSabhaKey": "KALS-9" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-5",
+                    "districtName": "Bangalore Urban",
+                    "totalSeats": 28,
+                    "constituencies": [
+                      { "id": 150, "name": "Yelahanka",           "lokSabhaKey": "KALS-9" },
+                      { "id": 151, "name": "Krishnarajapuram",    "lokSabhaKey": "KALS-3" },
+                      { "id": 152, "name": "Byatarayanapura",     "lokSabhaKey": "KALS-3" },
+                      { "id": 153, "name": "Yeshwantpur",         "lokSabhaKey": "KALS-3" },
+                      { "id": 154, "name": "Rajarajeshwarinagar", "lokSabhaKey": "KALS-4" },
+                      { "id": 155, "name": "Dasarahalli",         "lokSabhaKey": "KALS-3" },
+                      { "id": 156, "name": "Mahalakshmi Layout",  "lokSabhaKey": "KALS-3" },
+                      { "id": 157, "name": "Malleshwaram",        "lokSabhaKey": "KALS-3" },
+                      { "id": 158, "name": "Hebbal",              "lokSabhaKey": "KALS-3" },
+                      { "id": 159, "name": "Pulakeshinagar",      "lokSabhaKey": "KALS-3" },
+                      { "id": 160, "name": "Sarvagnanagar",       "lokSabhaKey": "KALS-2" },
+                      { "id": 161, "name": "C. V. Raman Nagar",   "lokSabhaKey": "KALS-2" },
+                      { "id": 162, "name": "Shivajinagar",        "lokSabhaKey": "KALS-2" },
+                      { "id": 163, "name": "Shanti Nagar",        "lokSabhaKey": "KALS-2" },
+                      { "id": 164, "name": "Gandhi Nagar",        "lokSabhaKey": "KALS-2" },
+                      { "id": 165, "name": "Rajaji Nagar",        "lokSabhaKey": "KALS-2" },
+                      { "id": 166, "name": "Govindraj Nagar",     "lokSabhaKey": "KALS-5" },
+                      { "id": 167, "name": "Vijay Nagar",         "lokSabhaKey": "KALS-5" },
+                      { "id": 168, "name": "Chamrajpet",          "lokSabhaKey": "KALS-2" },
+                      { "id": 169, "name": "Chickpet",            "lokSabhaKey": "KALS-5" },
+                      { "id": 170, "name": "Basavanagudi",        "lokSabhaKey": "KALS-5" },
+                      { "id": 171, "name": "Padmanabhanagar",     "lokSabhaKey": "KALS-5" },
+                      { "id": 172, "name": "B.T.M. Layout",       "lokSabhaKey": "KALS-5" },
+                      { "id": 173, "name": "Jayanagar",           "lokSabhaKey": "KALS-5" },
+                      { "id": 174, "name": "Mahadevapura",        "lokSabhaKey": "KALS-2" },
+                      { "id": 175, "name": "Bommanahalli",        "lokSabhaKey": "KALS-5" },
+                      { "id": 176, "name": "Bangalore South",     "lokSabhaKey": "KALS-4" },
+                      { "id": 177, "name": "Anekal",              "lokSabhaKey": "KALS-4" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-6",
+                    "districtName": "Bidar",
+                    "totalSeats": 6,
+                    "constituencies": [
+                      { "id": 47, "name": "Basavakalyan", "lokSabhaKey": "KALS-7" },
+                      { "id": 48, "name": "Humnabad",     "lokSabhaKey": "KALS-7" },
+                      { "id": 49, "name": "Bidar South",  "lokSabhaKey": "KALS-7" },
+                      { "id": 50, "name": "Bidar",        "lokSabhaKey": "KALS-7" },
+                      { "id": 51, "name": "Bhalki",       "lokSabhaKey": "KALS-7" },
+                      { "id": 52, "name": "Aurad",        "lokSabhaKey": "KALS-7" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-7",
+                    "districtName": "Chamarajanagar",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 221, "name": "Hanur",         "lokSabhaKey": "KALS-8" },
+                      { "id": 222, "name": "Kollegal",      "lokSabhaKey": "KALS-8" },
+                      { "id": 223, "name": "Chamarajanagar","lokSabhaKey": "KALS-8" },
+                      { "id": 224, "name": "Gundlupet",     "lokSabhaKey": "KALS-8" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-8",
+                    "districtName": "Chikballapur",
+                    "totalSeats": 5,
+                    "constituencies": [
+                      { "id": 139, "name": "Gauribidanur",   "lokSabhaKey": "KALS-9" },
+                      { "id": 140, "name": "Bagepalli",      "lokSabhaKey": "KALS-9" },
+                      { "id": 141, "name": "Chikkaballapur", "lokSabhaKey": "KALS-9" },
+                      { "id": 142, "name": "Sidlaghatta",    "lokSabhaKey": "KALS-18" },
+                      { "id": 143, "name": "Chintamani",     "lokSabhaKey": "KALS-18" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-9",
+                    "districtName": "Chikmagalur",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 123, "name": "Sringeri",   "lokSabhaKey": "KALS-25" },
+                      { "id": 124, "name": "Mudigere",   "lokSabhaKey": "KALS-25" },
+                      { "id": 125, "name": "Chikmagalur","lokSabhaKey": "KALS-25" },
+                      { "id": 126, "name": "Tarikere",   "lokSabhaKey": "KALS-25" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-10",
+                    "districtName": "Chitradurga",
+                    "totalSeats": 6,
+                    "constituencies": [
+                      { "id": 97,  "name": "Molakalmuru", "lokSabhaKey": "KALS-11" },
+                      { "id": 98,  "name": "Challakere",  "lokSabhaKey": "KALS-11" },
+                      { "id": 99,  "name": "Chitradurga", "lokSabhaKey": "KALS-11" },
+                      { "id": 100, "name": "Hiriyur",     "lokSabhaKey": "KALS-11" },
+                      { "id": 101, "name": "Hosadurga",   "lokSabhaKey": "KALS-11" },
+                      { "id": 102, "name": "Holalkere",   "lokSabhaKey": "KALS-11" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-11",
+                    "districtName": "Dakshina Kannada",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 200, "name": "Belthangady",         "lokSabhaKey": "KALS-12" },
+                      { "id": 201, "name": "Moodabidri",          "lokSabhaKey": "KALS-12" },
+                      { "id": 202, "name": "Mangalore City North","lokSabhaKey": "KALS-12" },
+                      { "id": 203, "name": "Mangalore City South","lokSabhaKey": "KALS-12" },
+                      { "id": 204, "name": "Mangalore",           "lokSabhaKey": "KALS-12" },
+                      { "id": 205, "name": "Bantval",             "lokSabhaKey": "KALS-12" },
+                      { "id": 206, "name": "Puttur",              "lokSabhaKey": "KALS-12" },
+                      { "id": 207, "name": "Sullia",              "lokSabhaKey": "KALS-12" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-12",
+                    "districtName": "Devangere",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 103, "name": "Jagalur",         "lokSabhaKey": "KALS-13" },
+                      { "id": 105, "name": "Harihar",         "lokSabhaKey": "KALS-13" },
+                      { "id": 106, "name": "Davanagere North","lokSabhaKey": "KALS-13" },
+                      { "id": 107, "name": "Davanagere South","lokSabhaKey": "KALS-13" },
+                      { "id": 108, "name": "Mayakonda",       "lokSabhaKey": "KALS-13" },
+                      { "id": 109, "name": "Channagiri",      "lokSabhaKey": "KALS-13" },
+                      { "id": 110, "name": "Honnali",         "lokSabhaKey": "KALS-13" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-13",
+                    "districtName": "Dharwad",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 69, "name": "Navalgund",            "lokSabhaKey": "KALS-14" },
+                      { "id": 70, "name": "Kundgol",              "lokSabhaKey": "KALS-14" },
+                      { "id": 71, "name": "Dharwad",              "lokSabhaKey": "KALS-14" },
+                      { "id": 72, "name": "Hubli-Dharwad East",   "lokSabhaKey": "KALS-14" },
+                      { "id": 73, "name": "Hubli-Dharwad Central","lokSabhaKey": "KALS-14" },
+                      { "id": 74, "name": "Hubli-Dharwad West",   "lokSabhaKey": "KALS-14" },
+                      { "id": 75, "name": "Kalghatgi",            "lokSabhaKey": "KALS-14" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-14",
+                    "districtName": "Gadag",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 65, "name": "Shirahatti", "lokSabhaKey": "KALS-16" },
+                      { "id": 66, "name": "Gadag",      "lokSabhaKey": "KALS-16" },
+                      { "id": 67, "name": "Ron",        "lokSabhaKey": "KALS-16" },
+                      { "id": 68, "name": "Nargund",    "lokSabhaKey": "KALS-1" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-15",
+                    "districtName": "Hassan",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 127, "name": "Kadur",            "lokSabhaKey": "KALS-15" },
+                      { "id": 193, "name": "Shravanabelagola", "lokSabhaKey": "KALS-15" },
+                      { "id": 194, "name": "Arsikere",         "lokSabhaKey": "KALS-15" },
+                      { "id": 195, "name": "Belur",            "lokSabhaKey": "KALS-15" },
+                      { "id": 196, "name": "Hassan",           "lokSabhaKey": "KALS-15" },
+                      { "id": 197, "name": "Holenarasipur",    "lokSabhaKey": "KALS-15" },
+                      { "id": 198, "name": "Arkalgud",         "lokSabhaKey": "KALS-15" },
+                      { "id": 199, "name": "Sakleshpur",       "lokSabhaKey": "KALS-15" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-16",
+                    "districtName": "Haveri",
+                    "totalSeats": 6,
+                    "constituencies": [
+                      { "id": 82, "name": "Hangal",    "lokSabhaKey": "KALS-16" },
+                      { "id": 83, "name": "Shiggaon",  "lokSabhaKey": "KALS-14" },
+                      { "id": 84, "name": "Haveri",    "lokSabhaKey": "KALS-16" },
+                      { "id": 85, "name": "Byadgi",    "lokSabhaKey": "KALS-16" },
+                      { "id": 86, "name": "Hirekerur", "lokSabhaKey": "KALS-16" },
+                      { "id": 87, "name": "Ranebennur","lokSabhaKey": "KALS-16" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-17",
+                    "districtName": "Kalaburagi",
+                    "totalSeats": 9,
+                    "constituencies": [
+                      { "id": 34, "name": "Afzalpur",       "lokSabhaKey": "KALS-17" },
+                      { "id": 35, "name": "Jevargi",        "lokSabhaKey": "KALS-17" },
+                      { "id": 40, "name": "Chittapur",      "lokSabhaKey": "KALS-17" },
+                      { "id": 41, "name": "Sedam",          "lokSabhaKey": "KALS-17" },
+                      { "id": 42, "name": "Chincholi",      "lokSabhaKey": "KALS-7" },
+                      { "id": 43, "name": "Gulbarga Rural", "lokSabhaKey": "KALS-17" },
+                      { "id": 44, "name": "Gulbarga Dakshin","lokSabhaKey": "KALS-17" },
+                      { "id": 45, "name": "Gulbarga Uttar", "lokSabhaKey": "KALS-17" },
+                      { "id": 46, "name": "Aland",          "lokSabhaKey": "KALS-7" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-18",
+                    "districtName": "Kodagu",
+                    "totalSeats": 2,
+                    "constituencies": [
+                      { "id": 208, "name": "Madikeri", "lokSabhaKey": "KALS-21" },
+                      { "id": 209, "name": "Virajpet", "lokSabhaKey": "KALS-21" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-19",
+                    "districtName": "Kolar",
+                    "totalSeats": 6,
+                    "constituencies": [
+                      { "id": 144, "name": "Srinivaspur",    "lokSabhaKey": "KALS-18" },
+                      { "id": 145, "name": "Mulbagal",       "lokSabhaKey": "KALS-18" },
+                      { "id": 146, "name": "Kolar Gold Field","lokSabhaKey": "KALS-18" },
+                      { "id": 147, "name": "Bangarapet",     "lokSabhaKey": "KALS-18" },
+                      { "id": 148, "name": "Kolar",          "lokSabhaKey": "KALS-18" },
+                      { "id": 149, "name": "Malur",          "lokSabhaKey": "KALS-18" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-20",
+                    "districtName": "Koppal",
+                    "totalSeats": 5,
+                    "constituencies": [
+                      { "id": 60, "name": "Kushtagi",   "lokSabhaKey": "KALS-19" },
+                      { "id": 61, "name": "Kanakagiri", "lokSabhaKey": "KALS-19" },
+                      { "id": 62, "name": "Gangawati",  "lokSabhaKey": "KALS-19" },
+                      { "id": 63, "name": "Yelburga",   "lokSabhaKey": "KALS-19" },
+                      { "id": 64, "name": "Koppal",     "lokSabhaKey": "KALS-19" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-21",
+                    "districtName": "Mandya",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 186, "name": "Malavalli",        "lokSabhaKey": "KALS-20" },
+                      { "id": 187, "name": "Maddur",           "lokSabhaKey": "KALS-20" },
+                      { "id": 188, "name": "Melukote",         "lokSabhaKey": "KALS-20" },
+                      { "id": 189, "name": "Mandya",           "lokSabhaKey": "KALS-20" },
+                      { "id": 190, "name": "Shrirangapattana", "lokSabhaKey": "KALS-20" },
+                      { "id": 191, "name": "Nagamangala",      "lokSabhaKey": "KALS-20" },
+                      { "id": 192, "name": "Krishnarajapet",   "lokSabhaKey": "KALS-20" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-22",
+                    "districtName": "Mysore",
+                    "totalSeats": 11,
+                    "constituencies": [
+                      { "id": 210, "name": "Periyapatna",      "lokSabhaKey": "KALS-21" },
+                      { "id": 211, "name": "Krishnarajanagara","lokSabhaKey": "KALS-20" },
+                      { "id": 212, "name": "Hunsur",           "lokSabhaKey": "KALS-21" },
+                      { "id": 213, "name": "Heggadadevankote", "lokSabhaKey": "KALS-8" },
+                      { "id": 214, "name": "Nanjangud",        "lokSabhaKey": "KALS-8" },
+                      { "id": 215, "name": "Chamundeshwari",   "lokSabhaKey": "KALS-21" },
+                      { "id": 216, "name": "Krishnaraja",      "lokSabhaKey": "KALS-21" },
+                      { "id": 217, "name": "Chamaraja",        "lokSabhaKey": "KALS-21" },
+                      { "id": 218, "name": "Narasimharaja",    "lokSabhaKey": "KALS-21" },
+                      { "id": 219, "name": "Varuna",           "lokSabhaKey": "KALS-8" },
+                      { "id": 220, "name": "T. Narasipur",     "lokSabhaKey": "KALS-8" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-23",
+                    "districtName": "Raichur",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 53, "name": "Raichur Rural", "lokSabhaKey": "KALS-22" },
+                      { "id": 54, "name": "Raichur",       "lokSabhaKey": "KALS-22" },
+                      { "id": 55, "name": "Manvi",         "lokSabhaKey": "KALS-22" },
+                      { "id": 56, "name": "Devadurga",     "lokSabhaKey": "KALS-22" },
+                      { "id": 57, "name": "Lingsugur",     "lokSabhaKey": "KALS-22" },
+                      { "id": 58, "name": "Sindhanur",     "lokSabhaKey": "KALS-19" },
+                      { "id": 59, "name": "Maski",         "lokSabhaKey": "KALS-19" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-24",
+                    "districtName": "Ramanagara",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 182, "name": "Magadi",      "lokSabhaKey": "KALS-4" },
+                      { "id": 183, "name": "Ramanagaram","lokSabhaKey": "KALS-4" },
+                      { "id": 184, "name": "Kanakapura", "lokSabhaKey": "KALS-4" },
+                      { "id": 185, "name": "Channapatna","lokSabhaKey": "KALS-4" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-25",
+                    "districtName": "Shimoga",
+                    "totalSeats": 7,
+                    "constituencies": [
+                      { "id": 111, "name": "Shimoga Rural", "lokSabhaKey": "KALS-23" },
+                      { "id": 112, "name": "Bhadravati",    "lokSabhaKey": "KALS-23" },
+                      { "id": 113, "name": "Shimoga",       "lokSabhaKey": "KALS-23" },
+                      { "id": 114, "name": "Tirthahalli",   "lokSabhaKey": "KALS-23" },
+                      { "id": 115, "name": "Shikaripura",   "lokSabhaKey": "KALS-23" },
+                      { "id": 116, "name": "Sorab",         "lokSabhaKey": "KALS-23" },
+                      { "id": 117, "name": "Sagar",         "lokSabhaKey": "KALS-23" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-26",
+                    "districtName": "Tumakuru",
+                    "totalSeats": 11,
+                    "constituencies": [
+                      { "id": 128, "name": "Chiknayakanhalli", "lokSabhaKey": "KALS-24" },
+                      { "id": 129, "name": "Tiptur",           "lokSabhaKey": "KALS-24" },
+                      { "id": 130, "name": "Turuvekere",       "lokSabhaKey": "KALS-24" },
+                      { "id": 131, "name": "Kunigal",          "lokSabhaKey": "KALS-4" },
+                      { "id": 132, "name": "Tumkur City",      "lokSabhaKey": "KALS-24" },
+                      { "id": 133, "name": "Tumkur Rural",     "lokSabhaKey": "KALS-24" },
+                      { "id": 134, "name": "Koratagere",       "lokSabhaKey": "KALS-24" },
+                      { "id": 135, "name": "Gubbi",            "lokSabhaKey": "KALS-24" },
+                      { "id": 136, "name": "Sira",             "lokSabhaKey": "KALS-11" },
+                      { "id": 137, "name": "Pavagada",         "lokSabhaKey": "KALS-11" },
+                      { "id": 138, "name": "Madhugiri",        "lokSabhaKey": "KALS-24" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-27",
+                    "districtName": "Udupi",
+                    "totalSeats": 5,
+                    "constituencies": [
+                      { "id": 118, "name": "Byndoor",   "lokSabhaKey": "KALS-23" },
+                      { "id": 119, "name": "Kundapura", "lokSabhaKey": "KALS-25" },
+                      { "id": 120, "name": "Udupi",     "lokSabhaKey": "KALS-25" },
+                      { "id": 121, "name": "Kapu",      "lokSabhaKey": "KALS-25" },
+                      { "id": 122, "name": "Karkala",   "lokSabhaKey": "KALS-25" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-28",
+                    "districtName": "Uttara Kannada (Karwar)",
+                    "totalSeats": 6,
+                    "constituencies": [
+                      { "id": 76, "name": "Haliyal",  "lokSabhaKey": "KALS-26" },
+                      { "id": 77, "name": "Karwar",   "lokSabhaKey": "KALS-26" },
+                      { "id": 78, "name": "Kumta",    "lokSabhaKey": "KALS-26" },
+                      { "id": 79, "name": "Bhatkal",  "lokSabhaKey": "KALS-26" },
+                      { "id": 80, "name": "Sirsi",    "lokSabhaKey": "KALS-26" },
+                      { "id": 81, "name": "Yellapur", "lokSabhaKey": "KALS-26" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-29",
+                    "districtName": "Vijayapura",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 26, "name": "Muddebihal",        "lokSabhaKey": "KALS-27" },
+                      { "id": 27, "name": "Devar Hippargi",    "lokSabhaKey": "KALS-27" },
+                      { "id": 28, "name": "Basavana Bagevadi", "lokSabhaKey": "KALS-27" },
+                      { "id": 29, "name": "Babaleshwar",       "lokSabhaKey": "KALS-27" },
+                      { "id": 30, "name": "Bijapur City",      "lokSabhaKey": "KALS-27" },
+                      { "id": 31, "name": "Nagathan",          "lokSabhaKey": "KALS-27" },
+                      { "id": 32, "name": "Indi",              "lokSabhaKey": "KALS-27" },
+                      { "id": 33, "name": "Sindagi",           "lokSabhaKey": "KALS-27" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-30",
+                    "districtName": "Yadgir",
+                    "totalSeats": 4,
+                    "constituencies": [
+                      { "id": 36, "name": "Shorapur",  "lokSabhaKey": "KALS-22" },
+                      { "id": 37, "name": "Shahapur",  "lokSabhaKey": "KALS-22" },
+                      { "id": 38, "name": "Yadgir",    "lokSabhaKey": "KALS-22" },
+                      { "id": 39, "name": "Gurmitkal", "lokSabhaKey": "KALS-17" }
+                    ]
+                  },
+                  {
+                    "districtKey": "KA-31",
+                    "districtName": "Vijayanagara",
+                    "totalSeats": 5,
+                    "constituencies": [
+                      { "id": 88,  "name": "Hoovina Hadagali",   "lokSabhaKey": "KALS-28" },
+                      { "id": 89,  "name": "Hagaribommanahalli", "lokSabhaKey": "KALS-28" },
+                      { "id": 90,  "name": "Vijayanagara",       "lokSabhaKey": "KALS-28" },
+                      { "id": 96,  "name": "Kudligi",            "lokSabhaKey": "KALS-28" },
+                      { "id": 104, "name": "Harapanahalli",      "lokSabhaKey": "KALS-13" }
+                    ]
+                  }
                 ]
-            },
+              },
             {
                 "id": 18,
                 "state": "Kerala",
@@ -17275,426 +17276,427 @@
                 "stateKey": "KA",
                 "totalSeats": 224,
                 "lokSabhaConstituencies": [
-                    {
-                        "lokSabhaKey": "KALS-1",
-                        "lokSabhaName": "Bagalkot",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 19, "name": "Mudhol", "districtKey": "KA-1" },
-                            { "id": 20, "name": "Terdal", "districtKey": "KA-1" },
-                            { "id": 21, "name": "Jamkhandi", "districtKey": "KA-1" },
-                            { "id": 22, "name": "Bilgi", "districtKey": "KA-1" },
-                            { "id": 23, "name": "Badami", "districtKey": "KA-1" },
-                            { "id": 24, "name": "Bagalkot", "districtKey": "KA-1" },
-                            { "id": 25, "name": "Hungund", "districtKey": "KA-1" },
-                            { "id": 68, "name": "Nargund", "districtKey": "KA-14" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-2",
-                        "lokSabhaName": "Bangalore Central",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 160, "name": "Sarvagnanagar", "districtKey": "KA-5" },
-                            { "id": 161, "name": "C. V. Raman Nagar", "districtKey": "KA-5" },
-                            { "id": 162, "name": "Shivajinagar", "districtKey": "KA-5" },
-                            { "id": 163, "name": "Shanti Nagar", "districtKey": "KA-5" },
-                            { "id": 164, "name": "Gandhi Nagar", "districtKey": "KA-5" },
-                            { "id": 165, "name": "Rajaji Nagar", "districtKey": "KA-5" },
-                            { "id": 168, "name": "Chamrajpet", "districtKey": "KA-5" },
-                            { "id": 174, "name": "Mahadevapura", "districtKey": "KA-5" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-3",
-                        "lokSabhaName": "Bangalore North",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 151, "name": "Krishnarajapuram", "districtKey": "KA-5" },
-                            { "id": 152, "name": "Byatarayanapura", "districtKey": "KA-5" },
-                            { "id": 153, "name": "Yeshwantpur", "districtKey": "KA-5" },
-                            { "id": 155, "name": "Dasarahalli", "districtKey": "KA-5" },
-                            { "id": 156, "name": "Mahalakshmi Layout", "districtKey": "KA-5" },
-                            { "id": 157, "name": "Malleshwaram", "districtKey": "KA-5" },
-                            { "id": 158, "name": "Hebbal", "districtKey": "KA-5" },
-                            { "id": 159, "name": "Pulakeshinagar", "districtKey": "KA-5" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-4",
-                        "lokSabhaName": "Bangalore Rural",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 154, "name": "Rajarajeshwarinagar", "districtKey": "KA-5" },
-                            { "id": 176, "name": "Bangalore South", "districtKey": "KA-5" },
-                            { "id": 177, "name": "Anekal", "districtKey": "KA-5" },
-                            { "id": 131, "name": "Kunigal", "districtKey": "KA-26" },
-                            { "id": 182, "name": "Magadi", "districtKey": "KA-24" },
-                            { "id": 183, "name": "Ramanagaram", "districtKey": "KA-24" },
-                            { "id": 184, "name": "Kanakapura", "districtKey": "KA-24" },
-                            { "id": 185, "name": "Channapatna", "districtKey": "KA-24" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-5",
-                        "lokSabhaName": "Bangalore South",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 166, "name": "Govindraj Nagar", "districtKey": "KA-5" },
-                            { "id": 167, "name": "Vijay Nagar", "districtKey": "KA-5" },
-                            { "id": 169, "name": "Chickpet", "districtKey": "KA-5" },
-                            { "id": 170, "name": "Basavanagudi", "districtKey": "KA-5" },
-                            { "id": 171, "name": "Padmanabhanagar", "districtKey": "KA-5" },
-                            { "id": 172, "name": "B.T.M. Layout", "districtKey": "KA-5" },
-                            { "id": 173, "name": "Jayanagar", "districtKey": "KA-5" },
-                            { "id": 175, "name": "Bommanahalli", "districtKey": "KA-5" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-6",
-                        "lokSabhaName": "Belgaum",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 8, "name": "Arabhavi", "districtKey": "KA-3" },
-                            { "id": 9, "name": "Gokak", "districtKey": "KA-3" },
-                            { "id": 11, "name": "Belgaum Uttar", "districtKey": "KA-3" },
-                            { "id": 12, "name": "Belgaum Dakshin", "districtKey": "KA-3" },
-                            { "id": 13, "name": "Belgaum Rural", "districtKey": "KA-3" },
-                            { "id": 16, "name": "Bailhongal", "districtKey": "KA-3" },
-                            { "id": 17, "name": "Saundatti Yellamma", "districtKey": "KA-3" },
-                            { "id": 18, "name": "Ramdurg", "districtKey": "KA-3" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-7",
-                        "lokSabhaName": "Bidar",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 47, "name": "Basavakalyan", "districtKey": "KA-6" },
-                            { "id": 48, "name": "Humnabad", "districtKey": "KA-6" },
-                            { "id": 49, "name": "Bidar South", "districtKey": "KA-6" },
-                            { "id": 50, "name": "Bidar", "districtKey": "KA-6" },
-                            { "id": 51, "name": "Bhalki", "districtKey": "KA-6" },
-                            { "id": 52, "name": "Aurad", "districtKey": "KA-6" },
-                            { "id": 42, "name": "Chincholi", "districtKey": "KA-17" },
-                            { "id": 46, "name": "Aland", "districtKey": "KA-17" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-8",
-                        "lokSabhaName": "Chamarajanagar",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 221, "name": "Hanur", "districtKey": "KA-7" },
-                            { "id": 222, "name": "Kollegal", "districtKey": "KA-7" },
-                            { "id": 223, "name": "Chamarajanagar", "districtKey": "KA-7" },
-                            { "id": 224, "name": "Gundlupet", "districtKey": "KA-7" },
-                            { "id": 213, "name": "Heggadadevankote", "districtKey": "KA-22" },
-                            { "id": 214, "name": "Nanjangud", "districtKey": "KA-22" },
-                            { "id": 219, "name": "Varuna", "districtKey": "KA-22" },
-                            { "id": 220, "name": "T. Narasipur", "districtKey": "KA-22" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-9",
-                        "lokSabhaName": "Chikballapur",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 178, "name": "Hosakote", "districtKey": "KA-4" },
-                            { "id": 179, "name": "Devanahalli", "districtKey": "KA-4" },
-                            { "id": 180, "name": "Doddaballapur", "districtKey": "KA-4" },
-                            { "id": 181, "name": "Nelamangala", "districtKey": "KA-4" },
-                            { "id": 150, "name": "Yelahanka", "districtKey": "KA-5" },
-                            { "id": 139, "name": "Gauribidanur", "districtKey": "KA-8" },
-                            { "id": 140, "name": "Bagepalli", "districtKey": "KA-8" },
-                            { "id": 141, "name": "Chikkaballapur", "districtKey": "KA-8" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-10",
-                        "lokSabhaName": "Chikkodi",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 1, "name": "Nippani", "districtKey": "KA-3" },
-                            { "id": 2, "name": "Chikkodi-Sadalga", "districtKey": "KA-3" },
-                            { "id": 3, "name": "Athani", "districtKey": "KA-3" },
-                            { "id": 4, "name": "Kagwad", "districtKey": "KA-3" },
-                            { "id": 5, "name": "Kudachi", "districtKey": "KA-3" },
-                            { "id": 6, "name": "Raibag", "districtKey": "KA-3" },
-                            { "id": 7, "name": "Hukkeri", "districtKey": "KA-3" },
-                            { "id": 10, "name": "Yemkanmardi", "districtKey": "KA-3" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-11",
-                        "lokSabhaName": "Chitradurga",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 97, "name": "Molakalmuru", "districtKey": "KA-10" },
-                            { "id": 98, "name": "Challakere", "districtKey": "KA-10" },
-                            { "id": 99, "name": "Chitradurga", "districtKey": "KA-10" },
-                            { "id": 100, "name": "Hiriyur", "districtKey": "KA-10" },
-                            { "id": 101, "name": "Hosadurga", "districtKey": "KA-10" },
-                            { "id": 102, "name": "Holalkere", "districtKey": "KA-10" },
-                            { "id": 136, "name": "Sira", "districtKey": "KA-26" },
-                            { "id": 137, "name": "Pavagada", "districtKey": "KA-26" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-12",
-                        "lokSabhaName": "Dakshina Kannada",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 200, "name": "Belthangady", "districtKey": "KA-11" },
-                            { "id": 201, "name": "Moodabidri", "districtKey": "KA-11" },
-                            { "id": 202, "name": "Mangalore City North", "districtKey": "KA-11" },
-                            { "id": 203, "name": "Mangalore City South", "districtKey": "KA-11" },
-                            { "id": 204, "name": "Mangalore", "districtKey": "KA-11" },
-                            { "id": 205, "name": "Bantval", "districtKey": "KA-11" },
-                            { "id": 206, "name": "Puttur", "districtKey": "KA-11" },
-                            { "id": 207, "name": "Sullia", "districtKey": "KA-11" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-13",
-                        "lokSabhaName": "Davangere",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 103, "name": "Jagalur", "districtKey": "KA-12" },
-                            { "id": 105, "name": "Harihar", "districtKey": "KA-12" },
-                            { "id": 106, "name": "Davanagere North", "districtKey": "KA-12" },
-                            { "id": 107, "name": "Davanagere South", "districtKey": "KA-12" },
-                            { "id": 108, "name": "Mayakonda", "districtKey": "KA-12" },
-                            { "id": 109, "name": "Channagiri", "districtKey": "KA-12" },
-                            { "id": 110, "name": "Honnali", "districtKey": "KA-12" },
-                            { "id": 104, "name": "Harapanahalli", "districtKey": "KA-31" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-14",
-                        "lokSabhaName": "Dharwad",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 69, "name": "Navalgund", "districtKey": "KA-13" },
-                            { "id": 70, "name": "Kundgol", "districtKey": "KA-13" },
-                            { "id": 71, "name": "Dharwad", "districtKey": "KA-13" },
-                            { "id": 72, "name": "Hubli-Dharwad East", "districtKey": "KA-13" },
-                            { "id": 73, "name": "Hubli-Dharwad Central", "districtKey": "KA-13" },
-                            { "id": 74, "name": "Hubli-Dharwad West", "districtKey": "KA-13" },
-                            { "id": 75, "name": "Kalghatgi", "districtKey": "KA-13" },
-                            { "id": 83, "name": "Shiggaon", "districtKey": "KA-16" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-15",
-                        "lokSabhaName": "Hassan",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 127, "name": "Kadur", "districtKey": "KA-15" },
-                            { "id": 193, "name": "Shravanabelagola", "districtKey": "KA-15" },
-                            { "id": 194, "name": "Arsikere", "districtKey": "KA-15" },
-                            { "id": 195, "name": "Belur", "districtKey": "KA-15" },
-                            { "id": 196, "name": "Hassan", "districtKey": "KA-15" },
-                            { "id": 197, "name": "Holenarasipur", "districtKey": "KA-15" },
-                            { "id": 198, "name": "Arkalgud", "districtKey": "KA-15" },
-                            { "id": 199, "name": "Sakleshpur", "districtKey": "KA-15" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-16",
-                        "lokSabhaName": "Haveri",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 65, "name": "Shirahatti", "districtKey": "KA-14" },
-                            { "id": 66, "name": "Gadag", "districtKey": "KA-14" },
-                            { "id": 67, "name": "Ron", "districtKey": "KA-14" },
-                            { "id": 82, "name": "Hangal", "districtKey": "KA-16" },
-                            { "id": 84, "name": "Haveri", "districtKey": "KA-16" },
-                            { "id": 85, "name": "Byadgi", "districtKey": "KA-16" },
-                            { "id": 86, "name": "Hirekerur", "districtKey": "KA-16" },
-                            { "id": 87, "name": "Ranebennur", "districtKey": "KA-16" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-17",
-                        "lokSabhaName": "Gulbarga",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 34, "name": "Afzalpur", "districtKey": "KA-17" },
-                            { "id": 35, "name": "Jevargi", "districtKey": "KA-17" },
-                            { "id": 40, "name": "Chittapur", "districtKey": "KA-17" },
-                            { "id": 41, "name": "Sedam", "districtKey": "KA-17" },
-                            { "id": 43, "name": "Gulbarga Rural", "districtKey": "KA-17" },
-                            { "id": 44, "name": "Gulbarga Dakshin", "districtKey": "KA-17" },
-                            { "id": 45, "name": "Gulbarga Uttar", "districtKey": "KA-17" },
-                            { "id": 39, "name": "Gurmitkal", "districtKey": "KA-30" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-18",
-                        "lokSabhaName": "Kolar",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 142, "name": "Sidlaghatta", "districtKey": "KA-8" },
-                            { "id": 143, "name": "Chintamani", "districtKey": "KA-8" },
-                            { "id": 144, "name": "Srinivaspur", "districtKey": "KA-19" },
-                            { "id": 145, "name": "Mulbagal", "districtKey": "KA-19" },
-                            { "id": 146, "name": "Kolar Gold Field", "districtKey": "KA-19" },
-                            { "id": 147, "name": "Bangarapet", "districtKey": "KA-19" },
-                            { "id": 148, "name": "Kolar", "districtKey": "KA-19" },
-                            { "id": 149, "name": "Malur", "districtKey": "KA-19" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-19",
-                        "lokSabhaName": "Koppal",
-                        "totalSeats": 7,
-                        "constituencies": [
-                            { "id": 92, "name": "Siruguppa", "districtKey": "KA-2" },
-                            { "id": 60, "name": "Kushtagi", "districtKey": "KA-20" },
-                            { "id": 61, "name": "Kanakagiri", "districtKey": "KA-20" },
-                            { "id": 62, "name": "Gangawati", "districtKey": "KA-20" },
-                            { "id": 63, "name": "Yelburga", "districtKey": "KA-20" },
-                            { "id": 64, "name": "Koppal", "districtKey": "KA-20" },
-                            { "id": 58, "name": "Sindhanur", "districtKey": "KA-23" },
-                            { "id": 59, "name": "Maski", "districtKey": "KA-23" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-20",
-                        "lokSabhaName": "Mandya",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 186, "name": "Malavalli", "districtKey": "KA-21" },
-                            { "id": 187, "name": "Maddur", "districtKey": "KA-21" },
-                            { "id": 188, "name": "Melukote", "districtKey": "KA-21" },
-                            { "id": 189, "name": "Mandya", "districtKey": "KA-21" },
-                            { "id": 190, "name": "Shrirangapattana", "districtKey": "KA-21" },
-                            { "id": 191, "name": "Nagamangala", "districtKey": "KA-21" },
-                            { "id": 192, "name": "Krishnarajapet", "districtKey": "KA-21" },
-                            { "id": 211, "name": "Krishnarajanagara", "districtKey": "KA-22" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-21",
-                        "lokSabhaName": "Mysore",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 208, "name": "Madikeri", "districtKey": "KA-18" },
-                            { "id": 209, "name": "Virajpet", "districtKey": "KA-18" },
-                            { "id": 210, "name": "Periyapatna", "districtKey": "KA-22" },
-                            { "id": 212, "name": "Hunsur", "districtKey": "KA-22" },
-                            { "id": 215, "name": "Chamundeshwari", "districtKey": "KA-22" },
-                            { "id": 216, "name": "Krishnaraja", "districtKey": "KA-22" },
-                            { "id": 217, "name": "Chamaraja", "districtKey": "KA-22" },
-                            { "id": 218, "name": "Narasimharaja", "districtKey": "KA-22" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-22",
-                        "lokSabhaName": "Raichur",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 53, "name": "Raichur Rural", "districtKey": "KA-23" },
-                            { "id": 54, "name": "Raichur", "districtKey": "KA-23" },
-                            { "id": 55, "name": "Manvi", "districtKey": "KA-23" },
-                            { "id": 56, "name": "Devadurga", "districtKey": "KA-23" },
-                            { "id": 57, "name": "Lingsugur", "districtKey": "KA-23" },
-                            { "id": 36, "name": "Shorapur", "districtKey": "KA-30" },
-                            { "id": 37, "name": "Shahapur", "districtKey": "KA-30" },
-                            { "id": 38, "name": "Yadgir", "districtKey": "KA-30" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-23",
-                        "lokSabhaName": "Shimoga",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 111, "name": "Shimoga Rural", "districtKey": "KA-25" },
-                            { "id": 112, "name": "Bhadravati", "districtKey": "KA-25" },
-                            { "id": 113, "name": "Shimoga", "districtKey": "KA-25" },
-                            { "id": 114, "name": "Tirthahalli", "districtKey": "KA-25" },
-                            { "id": 115, "name": "Shikaripura", "districtKey": "KA-25" },
-                            { "id": 116, "name": "Sorab", "districtKey": "KA-25" },
-                            { "id": 117, "name": "Sagar", "districtKey": "KA-25" },
-                            { "id": 118, "name": "Byndoor", "districtKey": "KA-27" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-24",
-                        "lokSabhaName": "Tumkur",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 128, "name": "Chiknayakanhalli", "districtKey": "KA-26" },
-                            { "id": 129, "name": "Tiptur", "districtKey": "KA-26" },
-                            { "id": 130, "name": "Turuvekere", "districtKey": "KA-26" },
-                            { "id": 132, "name": "Tumkur City", "districtKey": "KA-26" },
-                            { "id": 133, "name": "Tumkur Rural", "districtKey": "KA-26" },
-                            { "id": 134, "name": "Koratagere", "districtKey": "KA-26" },
-                            { "id": 135, "name": "Gubbi", "districtKey": "KA-26" },
-                            { "id": 138, "name": "Madhugiri", "districtKey": "KA-26" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-25",
-                        "lokSabhaName": "Udupi Chikmagalur",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 123, "name": "Sringeri", "districtKey": "KA-9" },
-                            { "id": 124, "name": "Mudigere", "districtKey": "KA-9" },
-                            { "id": 125, "name": "Chikmagalur", "districtKey": "KA-9" },
-                            { "id": 126, "name": "Tarikere", "districtKey": "KA-9" },
-                            { "id": 119, "name": "Kundapura", "districtKey": "KA-27" },
-                            { "id": 120, "name": "Udupi", "districtKey": "KA-27" },
-                            { "id": 121, "name": "Kapu", "districtKey": "KA-27" },
-                            { "id": 122, "name": "Karkala", "districtKey": "KA-27" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-26",
-                        "lokSabhaName": "Uttara Kannada",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 14, "name": "Khanapur", "districtKey": "KA-3" },
-                            { "id": 15, "name": "Kittur", "districtKey": "KA-3" },
-                            { "id": 76, "name": "Haliyal", "districtKey": "KA-28" },
-                            { "id": 77, "name": "Karwar", "districtKey": "KA-28" },
-                            { "id": 78, "name": "Kumta", "districtKey": "KA-28" },
-                            { "id": 79, "name": "Bhatkal", "districtKey": "KA-28" },
-                            { "id": 80, "name": "Sirsi", "districtKey": "KA-28" },
-                            { "id": 81, "name": "Yellapur", "districtKey": "KA-28" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-27",
-                        "lokSabhaName": "Bijapur",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 26, "name": "Muddebihal", "districtKey": "KA-29" },
-                            { "id": 27, "name": "Devar Hippargi", "districtKey": "KA-29" },
-                            { "id": 28, "name": "Basavana Bagevadi", "districtKey": "KA-29" },
-                            { "id": 29, "name": "Babaleshwar", "districtKey": "KA-29" },
-                            { "id": 30, "name": "Bijapur City", "districtKey": "KA-29" },
-                            { "id": 31, "name": "Nagathan", "districtKey": "KA-29" },
-                            { "id": 32, "name": "Indi", "districtKey": "KA-29" },
-                            { "id": 33, "name": "Sindagi", "districtKey": "KA-29" }
-                        ]
-                    },
-                    {
-                        "lokSabhaKey": "KALS-5",
-                        "lokSabhaName": "Bellary",
-                        "totalSeats": 8,
-                        "constituencies": [
-                            { "id": 91, "name": "Kampli", "districtKey": "KA-2" },
-                            { "id": 93, "name": "Bellary Rural", "districtKey": "KA-2" },
-                            { "id": 94, "name": "Bellary City", "districtKey": "KA-2" },
-                            { "id": 95, "name": "Sandur", "districtKey": "KA-2" },
-                            { "id": 88, "name": "Hoovina Hadagali", "districtKey": "KA-31" },
-                            { "id": 89, "name": "Hagaribommanahalli", "districtKey": "KA-31" },
-                            { "id": 90, "name": "Vijayanagara", "districtKey": "KA-31" },
-                            { "id": 96, "name": "Kudligi", "districtKey": "KA-31" }
-                        ]
-                    }
+                  {
+                    "lokSabhaKey": "KALS-1",
+                    "lokSabhaName": "Bagalkot",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 19, "name": "Mudhol",   "districtKey": "KA-1" },
+                      { "id": 20, "name": "Terdal",   "districtKey": "KA-1" },
+                      { "id": 21, "name": "Jamkhandi","districtKey": "KA-1" },
+                      { "id": 22, "name": "Bilgi",    "districtKey": "KA-1" },
+                      { "id": 23, "name": "Badami",   "districtKey": "KA-1" },
+                      { "id": 24, "name": "Bagalkot", "districtKey": "KA-1" },
+                      { "id": 25, "name": "Hungund",  "districtKey": "KA-1" },
+                      { "id": 68, "name": "Nargund",  "districtKey": "KA-14" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-2",
+                    "lokSabhaName": "Bangalore Central",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 160, "name": "Sarvagnanagar",   "districtKey": "KA-5" },
+                      { "id": 161, "name": "C. V. Raman Nagar","districtKey": "KA-5" },
+                      { "id": 162, "name": "Shivajinagar",    "districtKey": "KA-5" },
+                      { "id": 163, "name": "Shanti Nagar",    "districtKey": "KA-5" },
+                      { "id": 164, "name": "Gandhi Nagar",    "districtKey": "KA-5" },
+                      { "id": 165, "name": "Rajaji Nagar",    "districtKey": "KA-5" },
+                      { "id": 168, "name": "Chamrajpet",      "districtKey": "KA-5" },
+                      { "id": 174, "name": "Mahadevapura",    "districtKey": "KA-5" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-3",
+                    "lokSabhaName": "Bangalore North",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 151, "name": "Krishnarajapuram",  "districtKey": "KA-5" },
+                      { "id": 152, "name": "Byatarayanapura",   "districtKey": "KA-5" },
+                      { "id": 153, "name": "Yeshwantpur",       "districtKey": "KA-5" },
+                      { "id": 155, "name": "Dasarahalli",       "districtKey": "KA-5" },
+                      { "id": 156, "name": "Mahalakshmi Layout","districtKey": "KA-5" },
+                      { "id": 157, "name": "Malleshwaram",      "districtKey": "KA-5" },
+                      { "id": 158, "name": "Hebbal",            "districtKey": "KA-5" },
+                      { "id": 159, "name": "Pulakeshinagar",    "districtKey": "KA-5" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-4",
+                    "lokSabhaName": "Bangalore Rural",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 154, "name": "Rajarajeshwarinagar","districtKey": "KA-5" },
+                      { "id": 176, "name": "Bangalore South",    "districtKey": "KA-5" },
+                      { "id": 177, "name": "Anekal",             "districtKey": "KA-5" },
+                      { "id": 131, "name": "Kunigal",            "districtKey": "KA-26" },
+                      { "id": 182, "name": "Magadi",             "districtKey": "KA-24" },
+                      { "id": 183, "name": "Ramanagaram",        "districtKey": "KA-24" },
+                      { "id": 184, "name": "Kanakapura",         "districtKey": "KA-24" },
+                      { "id": 185, "name": "Channapatna",        "districtKey": "KA-24" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-5",
+                    "lokSabhaName": "Bangalore South",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 166, "name": "Govindraj Nagar", "districtKey": "KA-5" },
+                      { "id": 167, "name": "Vijay Nagar",     "districtKey": "KA-5" },
+                      { "id": 169, "name": "Chickpet",        "districtKey": "KA-5" },
+                      { "id": 170, "name": "Basavanagudi",    "districtKey": "KA-5" },
+                      { "id": 171, "name": "Padmanabhanagar","districtKey": "KA-5" },
+                      { "id": 172, "name": "B.T.M. Layout",  "districtKey": "KA-5" },
+                      { "id": 173, "name": "Jayanagar",       "districtKey": "KA-5" },
+                      { "id": 175, "name": "Bommanahalli",    "districtKey": "KA-5" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-6",
+                    "lokSabhaName": "Belgaum",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 8,  "name": "Arabhavi",           "districtKey": "KA-3" },
+                      { "id": 9,  "name": "Gokak",              "districtKey": "KA-3" },
+                      { "id": 11, "name": "Belgaum Uttar",      "districtKey": "KA-3" },
+                      { "id": 12, "name": "Belgaum Dakshin",    "districtKey": "KA-3" },
+                      { "id": 13, "name": "Belgaum Rural",      "districtKey": "KA-3" },
+                      { "id": 16, "name": "Bailhongal",         "districtKey": "KA-3" },
+                      { "id": 17, "name": "Saundatti Yellamma", "districtKey": "KA-3" },
+                      { "id": 18, "name": "Ramdurg",            "districtKey": "KA-3" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-7",
+                    "lokSabhaName": "Bidar",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 47, "name": "Basavakalyan", "districtKey": "KA-6" },
+                      { "id": 48, "name": "Humnabad",     "districtKey": "KA-6" },
+                      { "id": 49, "name": "Bidar South",  "districtKey": "KA-6" },
+                      { "id": 50, "name": "Bidar",        "districtKey": "KA-6" },
+                      { "id": 51, "name": "Bhalki",       "districtKey": "KA-6" },
+                      { "id": 52, "name": "Aurad",        "districtKey": "KA-6" },
+                      { "id": 42, "name": "Chincholi",    "districtKey": "KA-17" },
+                      { "id": 46, "name": "Aland",        "districtKey": "KA-17" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-8",
+                    "lokSabhaName": "Chamarajanagar",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 221, "name": "Hanur",               "districtKey": "KA-7" },
+                      { "id": 222, "name": "Kollegal",             "districtKey": "KA-7" },
+                      { "id": 223, "name": "Chamarajanagar",       "districtKey": "KA-7" },
+                      { "id": 224, "name": "Gundlupet",            "districtKey": "KA-7" },
+                      { "id": 213, "name": "Heggadadevankote",     "districtKey": "KA-22" },
+                      { "id": 214, "name": "Nanjangud",            "districtKey": "KA-22" },
+                      { "id": 219, "name": "Varuna",               "districtKey": "KA-22" },
+                      { "id": 220, "name": "T. Narasipur",         "districtKey": "KA-22" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-9",
+                    "lokSabhaName": "Chikballapur",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 178, "name": "Hosakote",       "districtKey": "KA-4" },
+                      { "id": 179, "name": "Devanahalli",    "districtKey": "KA-4" },
+                      { "id": 180, "name": "Doddaballapur", "districtKey": "KA-4" },
+                      { "id": 181, "name": "Nelamangala",   "districtKey": "KA-4" },
+                      { "id": 150, "name": "Yelahanka",     "districtKey": "KA-5" },
+                      { "id": 139, "name": "Gauribidanur",  "districtKey": "KA-8" },
+                      { "id": 140, "name": "Bagepalli",     "districtKey": "KA-8" },
+                      { "id": 141, "name": "Chikkaballapur","districtKey": "KA-8" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-10",
+                    "lokSabhaName": "Chikkodi",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 1,  "name": "Nippani",          "districtKey": "KA-3" },
+                      { "id": 2,  "name": "Chikkodi-Sadalga", "districtKey": "KA-3" },
+                      { "id": 3,  "name": "Athani",           "districtKey": "KA-3" },
+                      { "id": 4,  "name": "Kagwad",           "districtKey": "KA-3" },
+                      { "id": 5,  "name": "Kudachi",          "districtKey": "KA-3" },
+                      { "id": 6,  "name": "Raibag",           "districtKey": "KA-3" },
+                      { "id": 7,  "name": "Hukkeri",          "districtKey": "KA-3" },
+                      { "id": 10, "name": "Yemkanmardi",      "districtKey": "KA-3" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-11",
+                    "lokSabhaName": "Chitradurga",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 97,  "name": "Molakalmuru", "districtKey": "KA-10" },
+                      { "id": 98,  "name": "Challakere",  "districtKey": "KA-10" },
+                      { "id": 99,  "name": "Chitradurga", "districtKey": "KA-10" },
+                      { "id": 100, "name": "Hiriyur",     "districtKey": "KA-10" },
+                      { "id": 101, "name": "Hosadurga",   "districtKey": "KA-10" },
+                      { "id": 102, "name": "Holalkere",   "districtKey": "KA-10" },
+                      { "id": 136, "name": "Sira",        "districtKey": "KA-26" },
+                      { "id": 137, "name": "Pavagada",    "districtKey": "KA-26" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-12",
+                    "lokSabhaName": "Dakshina Kannada",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 200, "name": "Belthangady",         "districtKey": "KA-11" },
+                      { "id": 201, "name": "Moodabidri",          "districtKey": "KA-11" },
+                      { "id": 202, "name": "Mangalore City North","districtKey": "KA-11" },
+                      { "id": 203, "name": "Mangalore City South","districtKey": "KA-11" },
+                      { "id": 204, "name": "Mangalore",           "districtKey": "KA-11" },
+                      { "id": 205, "name": "Bantval",             "districtKey": "KA-11" },
+                      { "id": 206, "name": "Puttur",              "districtKey": "KA-11" },
+                      { "id": 207, "name": "Sullia",              "districtKey": "KA-11" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-13",
+                    "lokSabhaName": "Davangere",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 103, "name": "Jagalur",         "districtKey": "KA-12" },
+                      { "id": 105, "name": "Harihar",         "districtKey": "KA-12" },
+                      { "id": 106, "name": "Davanagere North","districtKey": "KA-12" },
+                      { "id": 107, "name": "Davanagere South","districtKey": "KA-12" },
+                      { "id": 108, "name": "Mayakonda",       "districtKey": "KA-12" },
+                      { "id": 109, "name": "Channagiri",      "districtKey": "KA-12" },
+                      { "id": 110, "name": "Honnali",         "districtKey": "KA-12" },
+                      { "id": 104, "name": "Harapanahalli",   "districtKey": "KA-31" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-14",
+                    "lokSabhaName": "Dharwad",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 69, "name": "Navalgund",           "districtKey": "KA-13" },
+                      { "id": 70, "name": "Kundgol",             "districtKey": "KA-13" },
+                      { "id": 71, "name": "Dharwad",             "districtKey": "KA-13" },
+                      { "id": 72, "name": "Hubli-Dharwad East",  "districtKey": "KA-13" },
+                      { "id": 73, "name": "Hubli-Dharwad Central","districtKey": "KA-13" },
+                      { "id": 74, "name": "Hubli-Dharwad West",  "districtKey": "KA-13" },
+                      { "id": 75, "name": "Kalghatgi",           "districtKey": "KA-13" },
+                      { "id": 83, "name": "Shiggaon",            "districtKey": "KA-16" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-15",
+                    "lokSabhaName": "Hassan",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 127, "name": "Kadur",             "districtKey": "KA-15" },
+                      { "id": 193, "name": "Shravanabelagola",  "districtKey": "KA-15" },
+                      { "id": 194, "name": "Arsikere",          "districtKey": "KA-15" },
+                      { "id": 195, "name": "Belur",             "districtKey": "KA-15" },
+                      { "id": 196, "name": "Hassan",            "districtKey": "KA-15" },
+                      { "id": 197, "name": "Holenarasipur",     "districtKey": "KA-15" },
+                      { "id": 198, "name": "Arkalgud",          "districtKey": "KA-15" },
+                      { "id": 199, "name": "Sakleshpur",        "districtKey": "KA-15" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-16",
+                    "lokSabhaName": "Haveri",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 65, "name": "Shirahatti",  "districtKey": "KA-14" },
+                      { "id": 66, "name": "Gadag",       "districtKey": "KA-14" },
+                      { "id": 67, "name": "Ron",         "districtKey": "KA-14" },
+                      { "id": 82, "name": "Hangal",      "districtKey": "KA-16" },
+                      { "id": 84, "name": "Haveri",      "districtKey": "KA-16" },
+                      { "id": 85, "name": "Byadgi",      "districtKey": "KA-16" },
+                      { "id": 86, "name": "Hirekerur",   "districtKey": "KA-16" },
+                      { "id": 87, "name": "Ranebennur",  "districtKey": "KA-16" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-17",
+                    "lokSabhaName": "Gulbarga",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 34, "name": "Afzalpur",       "districtKey": "KA-17" },
+                      { "id": 35, "name": "Jevargi",        "districtKey": "KA-17" },
+                      { "id": 40, "name": "Chittapur",      "districtKey": "KA-17" },
+                      { "id": 41, "name": "Sedam",          "districtKey": "KA-17" },
+                      { "id": 43, "name": "Gulbarga Rural", "districtKey": "KA-17" },
+                      { "id": 44, "name": "Gulbarga Dakshin","districtKey": "KA-17" },
+                      { "id": 45, "name": "Gulbarga Uttar", "districtKey": "KA-17" },
+                      { "id": 39, "name": "Gurmitkal",      "districtKey": "KA-30" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-18",
+                    "lokSabhaName": "Kolar",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 142, "name": "Sidlaghatta",  "districtKey": "KA-8" },
+                      { "id": 143, "name": "Chintamani",   "districtKey": "KA-8" },
+                      { "id": 144, "name": "Srinivaspur",  "districtKey": "KA-19" },
+                      { "id": 145, "name": "Mulbagal",     "districtKey": "KA-19" },
+                      { "id": 146, "name": "Kolar Gold Field","districtKey": "KA-19" },
+                      { "id": 147, "name": "Bangarapet",   "districtKey": "KA-19" },
+                      { "id": 148, "name": "Kolar",        "districtKey": "KA-19" },
+                      { "id": 149, "name": "Malur",        "districtKey": "KA-19" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-19",
+                    "lokSabhaName": "Koppal",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 60, "name": "Kushtagi",   "districtKey": "KA-20" },
+                      { "id": 61, "name": "Kanakagiri", "districtKey": "KA-20" },
+                      { "id": 62, "name": "Gangawati",  "districtKey": "KA-20" },
+                      { "id": 63, "name": "Yelburga",   "districtKey": "KA-20" },
+                      { "id": 64, "name": "Koppal",     "districtKey": "KA-20" },
+                      { "id": 92, "name": "Siruguppa",  "districtKey": "KA-2" },
+                      { "id": 58, "name": "Sindhanur",  "districtKey": "KA-23" },
+                      { "id": 59, "name": "Maski",      "districtKey": "KA-23" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-20",
+                    "lokSabhaName": "Mandya",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 186, "name": "Malavalli",        "districtKey": "KA-21" },
+                      { "id": 187, "name": "Maddur",           "districtKey": "KA-21" },
+                      { "id": 188, "name": "Melukote",         "districtKey": "KA-21" },
+                      { "id": 189, "name": "Mandya",           "districtKey": "KA-21" },
+                      { "id": 190, "name": "Shrirangapattana", "districtKey": "KA-21" },
+                      { "id": 191, "name": "Nagamangala",      "districtKey": "KA-21" },
+                      { "id": 192, "name": "Krishnarajapet",   "districtKey": "KA-21" },
+                      { "id": 211, "name": "Krishnarajanagara","districtKey": "KA-22" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-21",
+                    "lokSabhaName": "Mysore",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 208, "name": "Madikeri",        "districtKey": "KA-18" },
+                      { "id": 209, "name": "Virajpet",        "districtKey": "KA-18" },
+                      { "id": 210, "name": "Periyapatna",     "districtKey": "KA-22" },
+                      { "id": 212, "name": "Hunsur",          "districtKey": "KA-22" },
+                      { "id": 215, "name": "Chamundeshwari",  "districtKey": "KA-22" },
+                      { "id": 216, "name": "Krishnaraja",     "districtKey": "KA-22" },
+                      { "id": 217, "name": "Chamaraja",       "districtKey": "KA-22" },
+                      { "id": 218, "name": "Narasimharaja",   "districtKey": "KA-22" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-22",
+                    "lokSabhaName": "Raichur",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 53, "name": "Raichur Rural", "districtKey": "KA-23" },
+                      { "id": 54, "name": "Raichur",       "districtKey": "KA-23" },
+                      { "id": 55, "name": "Manvi",         "districtKey": "KA-23" },
+                      { "id": 56, "name": "Devadurga",     "districtKey": "KA-23" },
+                      { "id": 57, "name": "Lingsugur",     "districtKey": "KA-23" },
+                      { "id": 36, "name": "Shorapur",      "districtKey": "KA-30" },
+                      { "id": 37, "name": "Shahapur",      "districtKey": "KA-30" },
+                      { "id": 38, "name": "Yadgir",        "districtKey": "KA-30" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-23",
+                    "lokSabhaName": "Shimoga",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 111, "name": "Shimoga Rural", "districtKey": "KA-25" },
+                      { "id": 112, "name": "Bhadravati",    "districtKey": "KA-25" },
+                      { "id": 113, "name": "Shimoga",       "districtKey": "KA-25" },
+                      { "id": 114, "name": "Tirthahalli",   "districtKey": "KA-25" },
+                      { "id": 115, "name": "Shikaripura",   "districtKey": "KA-25" },
+                      { "id": 116, "name": "Sorab",         "districtKey": "KA-25" },
+                      { "id": 117, "name": "Sagar",         "districtKey": "KA-25" },
+                      { "id": 118, "name": "Byndoor",       "districtKey": "KA-27" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-24",
+                    "lokSabhaName": "Tumkur",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 128, "name": "Chiknayakanhalli", "districtKey": "KA-26" },
+                      { "id": 129, "name": "Tiptur",           "districtKey": "KA-26" },
+                      { "id": 130, "name": "Turuvekere",       "districtKey": "KA-26" },
+                      { "id": 132, "name": "Tumkur City",      "districtKey": "KA-26" },
+                      { "id": 133, "name": "Tumkur Rural",     "districtKey": "KA-26" },
+                      { "id": 134, "name": "Koratagere",       "districtKey": "KA-26" },
+                      { "id": 135, "name": "Gubbi",            "districtKey": "KA-26" },
+                      { "id": 138, "name": "Madhugiri",        "districtKey": "KA-26" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-25",
+                    "lokSabhaName": "Udupi Chikmagalur",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 123, "name": "Sringeri",   "districtKey": "KA-9" },
+                      { "id": 124, "name": "Mudigere",   "districtKey": "KA-9" },
+                      { "id": 125, "name": "Chikmagalur","districtKey": "KA-9" },
+                      { "id": 126, "name": "Tarikere",   "districtKey": "KA-9" },
+                      { "id": 119, "name": "Kundapura",  "districtKey": "KA-27" },
+                      { "id": 120, "name": "Udupi",      "districtKey": "KA-27" },
+                      { "id": 121, "name": "Kapu",       "districtKey": "KA-27" },
+                      { "id": 122, "name": "Karkala",    "districtKey": "KA-27" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-26",
+                    "lokSabhaName": "Uttara Kannada",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 14, "name": "Khanapur", "districtKey": "KA-3" },
+                      { "id": 15, "name": "Kittur",   "districtKey": "KA-3" },
+                      { "id": 76, "name": "Haliyal",  "districtKey": "KA-28" },
+                      { "id": 77, "name": "Karwar",   "districtKey": "KA-28" },
+                      { "id": 78, "name": "Kumta",    "districtKey": "KA-28" },
+                      { "id": 79, "name": "Bhatkal",  "districtKey": "KA-28" },
+                      { "id": 80, "name": "Sirsi",    "districtKey": "KA-28" },
+                      { "id": 81, "name": "Yellapur", "districtKey": "KA-28" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-27",
+                    "lokSabhaName": "Bijapur",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 26, "name": "Muddebihal",         "districtKey": "KA-29" },
+                      { "id": 27, "name": "Devar Hippargi",     "districtKey": "KA-29" },
+                      { "id": 28, "name": "Basavana Bagevadi",  "districtKey": "KA-29" },
+                      { "id": 29, "name": "Babaleshwar",        "districtKey": "KA-29" },
+                      { "id": 30, "name": "Bijapur City",       "districtKey": "KA-29" },
+                      { "id": 31, "name": "Nagathan",           "districtKey": "KA-29" },
+                      { "id": 32, "name": "Indi",               "districtKey": "KA-29" },
+                      { "id": 33, "name": "Sindagi",            "districtKey": "KA-29" }
+                    ]
+                  },
+                  {
+                    "lokSabhaKey": "KALS-28",
+                    "lokSabhaName": "Bellary",
+                    "totalSeats": 8,
+                    "constituencies": [
+                      { "id": 88, "name": "Hoovina Hadagali",    "districtKey": "KA-31" },
+                      { "id": 89, "name": "Hagaribommanahalli",  "districtKey": "KA-31" },
+                      { "id": 90, "name": "Vijayanagara",        "districtKey": "KA-31" },
+                      { "id": 91, "name": "Kampli",              "districtKey": "KA-2" },
+                      { "id": 92, "name": "Siruguppa",           "districtKey": "KA-2" },
+                      { "id": 93, "name": "Bellary Rural",       "districtKey": "KA-2" },
+                      { "id": 94, "name": "Bellary City",        "districtKey": "KA-2" },
+                      { "id": 95, "name": "Sandur",              "districtKey": "KA-2" },
+                      { "id": 96, "name": "Kudligi",             "districtKey": "KA-31" }
+                    ]
+                  }
                 ]
             },
             {
