@@ -1500,6 +1500,7 @@
                         { "id": 23, "key": "MH-23", "name": "Osmanabad" },
                         { "id": 24, "key": "MH-24", "name": "Palghar" },
                         { "id": 25, "key": "MH-25", "name": "Parbhani" },
+                        { "id": 251, "key": "MH-251", "name": "Pimpri Chinchwad City"},
                         { "id": 26, "key": "MH-26", "name": "Pune" },
                         { "id": 27, "key": "MH-27", "name": "Raigad" },
                         { "id": 28, "key": "MH-28", "name": "Ratnagiri" },
