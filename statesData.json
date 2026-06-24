@@ -692,6 +692,7 @@
                         { "id": 33, "key": "TNLS-33", "name": "Tiruchirappalli" },
                         { "id": 34, "key": "TNLS-34", "name": "Tirunelveli" },
                         { "id": 35, "key": "TNLS-35", "name": "Tiruppur" },
+                        {"id": 40, "key": "TNLS-40", "name": "Tiruvallur" },
                         { "id": 36, "key": "TNLS-36", "name": "Tiruvannamalai" },
                         { "id": 37, "key": "TNLS-37", "name": "Vellore" },
                         { "id": 38, "key": "TNLS-38", "name": "Viluppuram" },
